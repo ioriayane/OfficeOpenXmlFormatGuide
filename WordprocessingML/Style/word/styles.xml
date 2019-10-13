@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:styles xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+          xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main">
+  <w:docDefaults>
+    <w:rPrDefault>
+      <w:rPr>
+        <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia"
+                  w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+        <w:kern w:val="2"/>
+        <w:sz w:val="21"/>
+        <w:szCs w:val="22"/>
+        <w:lang w:val="en-US" w:eastAsia="ja-JP" w:bidi="ar-SA"/>
+      </w:rPr>
+    </w:rPrDefault>
+    <w:pPrDefault/>
+  </w:docDefaults>
+  <w:style w:type="paragraph" w:default="1" w:styleId="a">
+    <w:name w:val="Normal"/>
+    <w:pPr>
+      <w:jc w:val="both"/>
+    </w:pPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="1">
+    <w:name w:val="heading 1"/>
+    <w:basedOn w:val="a"/>
+    <w:next w:val="a"/>
+    <w:pPr>
+      <w:keepNext/>
+      <w:numPr>
+        <w:numId w:val="1"/>
+      </w:numPr>
+      <w:outlineLvl w:val="0"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia"
+                w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+      <w:sz w:val="24"/>
+      <w:szCs w:val="24"/>
+    </w:rPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="2">
+    <w:name w:val="heading 2"/>
+    <w:basedOn w:val="a"/>
+    <w:next w:val="a"/>
+    <w:pPr>
+      <w:keepNext/>
+      <w:numPr>
+        <w:ilvl w:val="1"/>
+        <w:numId w:val="1"/>
+      </w:numPr>
+      <w:outlineLvl w:val="1"/>
+    </w:pPr>
+    <w:rPr>
+      <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia"
+                w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+    </w:rPr>
+  </w:style>
+  <w:style w:type="character" w:styleId="10">
+    <w:name w:val="Strong"/>
+    <w:basedOn w:val="a"/>
+    <w:rPr>
+      <w:b/>
+      <w:bCs/>
+    </w:rPr>
+  </w:style>
+</w:styles>

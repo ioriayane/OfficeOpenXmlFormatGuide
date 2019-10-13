@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships" xmlns:m="http://purl.oclc.org/ooxml/officeDocument/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" mc:Ignorable="w14 w15 w16se w16cid wne wp14" w:conformance="strict">
+  <w:body>
+    <w:p w:rsidR="00F56060" w:rsidRDefault="0051004A">
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="3049762" cy="2516125"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1" name="キャンバス 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://purl.oclc.org/ooxml/drawingml/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://purl.oclc.org/ooxml/drawingml/main">
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas">
+                <wp:wpc>
+                  <wp:bg/>
+                  <wp:whole/>
+                  <wp:wsp>
+                    <wp:cNvPr id="2" name="吹き出し: 線 (枠付き、強調線付き) 1"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1145784" y="180358"/>
+                        <a:ext cx="782262" cy="523269"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="accentBorderCallout1">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="2">
+                        <a:schemeClr val="accent1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="0051004A" w:rsidRDefault="0051004A" w:rsidP="0051004A">
+                          <w:pPr>
+                            <w:jc w:val="center"/>
+                          </w:pPr>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="8" name="吹き出し: 線 (枠付き、強調線付き) 2"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm rot="5400000" flipH="1">
+                        <a:off x="1803888" y="1363342"/>
+                        <a:ext cx="781685" cy="522605"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="accentBorderCallout1">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="2">
+                        <a:schemeClr val="accent1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="008F4107" w:rsidRDefault="008F4107" w:rsidP="008F4107">
+                          <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                              <w:kern w:val="0"/>
+                              <w:sz w:val="24"/>
+                              <w:szCs w:val="24"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:eastAsia="ＭＳ 明朝" w:cs="Times New Roman"/>
+                              <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t> </w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="9" name="吹き出し: 線 (枠付き、強調線付き) 3"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm rot="16200000" flipH="1">
+                        <a:off x="528540" y="1598723"/>
+                        <a:ext cx="781685" cy="522605"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="accentBorderCallout1">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="2">
+                        <a:schemeClr val="accent1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="008F4107" w:rsidRDefault="008F4107" w:rsidP="008F4107">
+                          <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                              <w:kern w:val="0"/>
+                              <w:sz w:val="24"/>
+                              <w:szCs w:val="24"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:eastAsia="ＭＳ 明朝" w:cs="Times New Roman"/>
+                              <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t> </w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                </wp:wpc>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00F56060">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt" w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt" w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

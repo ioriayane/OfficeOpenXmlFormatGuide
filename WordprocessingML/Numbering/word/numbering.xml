@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:numbering
+    xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+    xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main">
+  <w:abstractNum w:abstractNumId="0">
+    <w:nsid w:val="2E4709B2"/>
+    <w:multiLevelType w:val="multilevel"/>
+    <w:lvl w:ilvl="0">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:lvlText w:val="%1."/>
+      <w:lvlJc w:val="start"/>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="36pt"/>
+        </w:tabs>
+        <w:ind w:start="21pt" w:hanging="21pt"/>
+      </w:pPr>
+    </w:lvl>
+    <w:lvl w:ilvl="1">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:lvlText w:val="%1.%2."/>
+      <w:lvlJc w:val="start"/>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="72pt"/>
+        </w:tabs>
+        <w:ind w:start="42pt" w:hanging="21pt"/>
+      </w:pPr>
+    </w:lvl>
+  </w:abstractNum>
+  <w:abstractNum w:abstractNumId="1">
+    <w:nsid w:val="0DDE3AB4"/>
+    <w:multiLevelType w:val="hybridMultilevel"/>
+    <w:lvl w:ilvl="0">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="bullet"/>
+      <w:lvlText w:val=""/>
+      <w:lvlJc w:val="start"/>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="36pt"/>
+        </w:tabs>
+        <w:ind w:start="21pt" w:hanging="21pt"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:hAnsi="Wingdings"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="1">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="bullet"/>
+      <w:lvlText w:val=""/>
+      <w:lvlJc w:val="start"/>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="36pt"/>
+        </w:tabs>
+        <w:ind w:start="42pt" w:hanging="21pt"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:hAnsi="Wingdings"/>
+      </w:rPr>
+    </w:lvl>
+  </w:abstractNum>
+
+  <w:num w:numId="1">
+    <w:abstractNumId w:val="0"/>
+  </w:num>
+  <w:num w:numId="2">
+    <w:abstractNumId w:val="1"/>
+  </w:num>
+</w:numbering>

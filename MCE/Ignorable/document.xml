@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:relog="http://relog.xii.jp/xml"
+    mc:Ignorable="relog"
+    w:conformance="strict">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <relog:thorn relog:weight="10"/>
+      </w:pPr>
+      <w:r>
+        <w:t>いばら姫</w:t>
+      </w:r>
+    </w:p>
+  </w:body>
+</w:document>

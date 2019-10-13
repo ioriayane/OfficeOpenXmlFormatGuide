@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+  xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+  xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main"
+  xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing"
+  xmlns:a="http://purl.oclc.org/ooxml/drawingml/main"
+  xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  mc:Ignorable="wne"
+  w:conformance="strict">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLineChars="100"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300"
+                     simplePos="0" relativeHeight="251659264" behindDoc="0"
+                     locked="0" layoutInCell="1" allowOverlap="1" >
+            <wp:simplePos x="0" y="0"/>
+            <wp:positionH relativeFrom="column">
+              <wp:posOffset>653415</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="paragraph">
+              <wp:posOffset>254000</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="1407160" cy="667385"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:wrapSquare wrapText="bothSides"/>
+            <wp:docPr id="1" name="正方形/長方形 1"/>
+            <wp:cNvGraphicFramePr/>
+            <a:graphic>
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <!-- 図形 -->
+                <wp:wsp>
+                  <wp:cNvSpPr/>
+                  <!-- 見た目の設定 -->
+                  <wp:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="1407160" cy="667385"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:solidFill>
+                      <a:srgbClr val="92D050"/>
+                    </a:solidFill>
+                    <a:ln w="25400">
+                      <a:solidFill>
+                        <a:srgbClr val="00B050"/>
+                      </a:solidFill>
+                    </a:ln>
+                  </wp:spPr>
+                  <!-- 文字列の設定 -->
+                  <wp:txbx>
+                    <wne:txbxContent>
+                      <w:p>
+                        <w:pPr>
+                          <w:jc w:val="center"/>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:hint="eastAsia"/>
+                          </w:rPr>
+                          <w:t>いばら姫</w:t>
+                        </w:r>
+                      </w:p>
+                    </wne:txbxContent>
+                  </wp:txbx>
+                  <wp:bodyPr anchor="ctr"
+                             tIns="45720" bIns="45720"
+                             lIns="91440" rIns="91440"
+                             vert="eaVert"/>
+                </wp:wsp>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:t>茨に覆い包まれたお城に美しい王女が眠っていると聞きつけて集まってくる者たちがいました。彼らは、我こそは王女を助け出すと威勢良くお城へと向かっていきました。</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00F56060">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt"
+               w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt"
+               w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

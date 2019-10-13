@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workbook xmlns="http://purl.oclc.org/ooxml/spreadsheetml/main"
+    xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+    conformance="strict">
+  <sheets>
+    <sheet sheetId="1" name="Sheet1" r:id="rId1"/>
+  </sheets>
+</workbook>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+  xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+  xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main"
+  xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing"
+  xmlns:a="http://purl.oclc.org/ooxml/drawingml/main"
+  xmlns:pic="http://purl.oclc.org/ooxml/drawingml/picture"
+  w:conformance="strict">
+  <w:body>
+    <w:p>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="3400040" cy="1150235"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1" name="キャンバス 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic>
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas">
+                <wp:wpc>
+                  <wp:bg/>
+                  <wp:whole/>
+                  <!-- 画像 -->
+                  <pic:pic>
+                    <pic:nvPicPr>
+                      <pic:cNvPr id="4" name="図 4"/>
+                      <pic:cNvPicPr/>
+                    </pic:nvPicPr>
+                    <pic:blipFill>
+                      <a:blip r:embed="rId6" cstate="print"/>
+                      <a:srcRect/>
+                      <a:stretch>
+                        <a:fillRect/>
+                      </a:stretch>
+                    </pic:blipFill>
+                    <pic:spPr bwMode="auto">
+                      <a:xfrm>
+                        <a:off x="0" y="0"/>
+                        <a:ext cx="1346199" cy="1149985"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln>
+                        <a:noFill/>
+                      </a:ln>
+                    </pic:spPr>
+                  </pic:pic>
+                </wp:wpc>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00F56060">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt"
+               w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt"
+               w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

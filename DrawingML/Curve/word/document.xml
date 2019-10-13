@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships" xmlns:m="http://purl.oclc.org/ooxml/officeDocument/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" mc:Ignorable="w14 w15 w16se w16cid wne wp14" w:conformance="strict">
+  <w:body>
+    <w:p w:rsidR="00F56060" w:rsidRDefault="00A50C2A">
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="5400040" cy="2856369"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1" name="キャンバス 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://purl.oclc.org/ooxml/drawingml/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://purl.oclc.org/ooxml/drawingml/main">
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas">
+                <wp:wpc>
+                  <wp:bg/>
+                  <wp:whole/>
+                  <wp:wsp>
+                    <wp:cNvPr id="3" name="フリーフォーム: 図形 1"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="199176" y="220762"/>
+                        <a:ext cx="1204111" cy="615572"/>
+                      </a:xfrm>
+                      <a:custGeom>
+                        <a:avLst/>
+                        <a:gdLst>
+                          <a:gd name="connsiteX0" fmla="*/ 0 w 1204111"/>
+                          <a:gd name="connsiteY0" fmla="*/ 358660 h 615572"/>
+                          <a:gd name="connsiteX1" fmla="*/ 325925 w 1204111"/>
+                          <a:gd name="connsiteY1" fmla="*/ 5575 h 615572"/>
+                          <a:gd name="connsiteX2" fmla="*/ 860080 w 1204111"/>
+                          <a:gd name="connsiteY2" fmla="*/ 607630 h 615572"/>
+                          <a:gd name="connsiteX3" fmla="*/ 1204111 w 1204111"/>
+                          <a:gd name="connsiteY3" fmla="*/ 295286 h 615572"/>
+                        </a:gdLst>
+                        <a:ahLst/>
+                        <a:cxnLst>
+                          <a:cxn ang="0">
+                            <a:pos x="connsiteX0" y="connsiteY0"/>
+                          </a:cxn>
+                          <a:cxn ang="0">
+                            <a:pos x="connsiteX1" y="connsiteY1"/>
+                          </a:cxn>
+                          <a:cxn ang="0">
+                            <a:pos x="connsiteX2" y="connsiteY2"/>
+                          </a:cxn>
+                          <a:cxn ang="0">
+                            <a:pos x="connsiteX3" y="connsiteY3"/>
+                          </a:cxn>
+                        </a:cxnLst>
+                        <a:rect l="l" t="t" r="r" b="b"/>
+                        <a:pathLst>
+                          <a:path w="1204111" h="615572">
+                            <a:moveTo>
+                              <a:pt x="0" y="358660"/>
+                            </a:moveTo>
+                            <a:cubicBezTo>
+                              <a:pt x="91289" y="161370"/>
+                              <a:pt x="182578" y="-35920"/>
+                              <a:pt x="325925" y="5575"/>
+                            </a:cubicBezTo>
+                            <a:cubicBezTo>
+                              <a:pt x="469272" y="47070"/>
+                              <a:pt x="713716" y="559345"/>
+                              <a:pt x="860080" y="607630"/>
+                            </a:cubicBezTo>
+                            <a:cubicBezTo>
+                              <a:pt x="1006444" y="655915"/>
+                              <a:pt x="1105277" y="475600"/>
+                              <a:pt x="1204111" y="295286"/>
+                            </a:cubicBezTo>
+                          </a:path>
+                        </a:pathLst>
+                      </a:custGeom>
+                      <a:noFill/>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="accent1">
+                          <a:shade val="50%"/>
+                        </a:schemeClr>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="accent1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="lt1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                </wp:wpc>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00F56060">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt" w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt" w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

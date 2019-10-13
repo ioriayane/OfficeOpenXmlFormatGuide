@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:presentation xmlns:p="http://purl.oclc.org/ooxml/presentationml/main"
+    xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+    conformance="strict">
+  <p:sldMasterIdLst>
+    <p:sldMasterId r:id="rId1"/>
+  </p:sldMasterIdLst>
+  <p:sldIdLst>
+    <p:sldId id="256" r:id="rId2"/>
+  </p:sldIdLst>
+  <p:sldSz cx="12192000" cy="6858000"/>
+  <p:notesSz cx="6858000" cy="9144000"/>
+</p:presentation>

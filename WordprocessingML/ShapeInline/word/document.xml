@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+  xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+  xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main"
+  xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing"
+  xmlns:a="http://purl.oclc.org/ooxml/drawingml/main"
+  w:conformance="strict">
+  <w:body>
+    <w:p>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="1407160" cy="667385"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1" name="正方形/長方形 1"/>
+            <wp:cNvGraphicFramePr/>
+            <a:graphic>
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <!-- 図形 -->
+                <wp:wsp>
+                  <wp:cNvSpPr/>
+                  <!-- 見た目の設定 -->
+                  <wp:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="1407160" cy="667385"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:solidFill>
+                      <a:srgbClr val="92D050"/>
+                    </a:solidFill>
+                    <a:ln w="25400">
+                      <a:solidFill>
+                        <a:srgbClr val="00B050"/>
+                      </a:solidFill>
+                    </a:ln>
+                  </wp:spPr>
+                  <wp:bodyPr/>
+                </wp:wsp>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00F56060">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt"
+               w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt"
+               w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

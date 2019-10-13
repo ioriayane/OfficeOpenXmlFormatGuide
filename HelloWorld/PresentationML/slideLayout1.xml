@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sldLayout xmlns:p="http://purl.oclc.org/ooxml/presentationml/main"
+    xmlns:a="http://purl.oclc.org/ooxml/drawingml/main"
+    type="title" preserve="1">
+  <p:cSld name="タイトル スライド">
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr/>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="タイトル 1"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:ph type="ctrTitle"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1524000" y="1122363"/>
+            <a:ext cx="9144000" cy="2387600"/>
+          </a:xfrm>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr anchor="b"/>
+          <a:lstStyle>
+            <a:lvl1pPr algn="ctr">
+              <a:defRPr sz="6000">
+                <a:solidFill>
+                  <a:srgbClr val="0000FF"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:r>
+              <a:t>マスター タイトルの書式設定</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+</p:sldLayout>

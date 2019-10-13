@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships" xmlns:m="http://purl.oclc.org/ooxml/officeDocument/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" mc:Ignorable="w14 w15 w16se w16cid wne wp14" w:conformance="strict">
+  <w:body>
+    <w:p w:rsidR="00F56060" w:rsidRDefault="000C1A5A" w:rsidP="00716F57">
+      <w:pPr>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="4458970" cy="1413163"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1" name="キャンバス 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://purl.oclc.org/ooxml/drawingml/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://purl.oclc.org/ooxml/drawingml/main">
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas">
+                <wp:wpc>
+                  <wp:bg/>
+                  <wp:whole/>
+                  <wp:wsp>
+                    <wp:cNvPr id="8" name="正方形/長方形 1"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="260645" y="347045"/>
+                        <a:ext cx="278130" cy="273685"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="9" name="正方形/長方形 2"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="738800" y="751540"/>
+                        <a:ext cx="278130" cy="273050"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="10" name="正方形/長方形 3"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1333160" y="347680"/>
+                        <a:ext cx="278130" cy="273050"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="11" name="正方形/長方形 4"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1840525" y="752175"/>
+                        <a:ext cx="278130" cy="272415"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="12" name="正方形/長方形 5"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2419010" y="347680"/>
+                        <a:ext cx="278130" cy="272415"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="13" name="正方形/長方形 6"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2926375" y="752810"/>
+                        <a:ext cx="278130" cy="271780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="14" name="正方形/長方形 7"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="3563280" y="346410"/>
+                        <a:ext cx="277495" cy="272415"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="15" name="正方形/長方形 8"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="4070645" y="751540"/>
+                        <a:ext cx="277495" cy="271780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="16" name="コネクタ: カギ線 1"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="538775" y="483570"/>
+                        <a:ext cx="338455" cy="267970"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="bentConnector2">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="17" name="コネクタ: カギ線 2"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1611290" y="484205"/>
+                        <a:ext cx="228600" cy="403860"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="bentConnector3">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="18" name="コネクタ: カギ線 3"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2696505" y="484205"/>
+                        <a:ext cx="367665" cy="540385"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="bentConnector4">
+                        <a:avLst>
+                          <a:gd name="adj1" fmla="val 31121"/>
+                          <a:gd name="adj2" fmla="val 142254"/>
+                        </a:avLst>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="19" name="コネクタ: カギ線 4"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm rot="16200000" flipH="1">
+                        <a:off x="3616302" y="431818"/>
+                        <a:ext cx="677545" cy="506730"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="bentConnector5">
+                        <a:avLst>
+                          <a:gd name="adj1" fmla="val -33739"/>
+                          <a:gd name="adj2" fmla="val 50000"/>
+                          <a:gd name="adj3" fmla="val 133739"/>
+                        </a:avLst>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                </wp:wpc>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="008F7AEB" w:rsidRDefault="008F7AEB" w:rsidP="00716F57">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="313046DF" wp14:editId="241BB10E">
+            <wp:extent cx="4458970" cy="1413163"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="26" name="キャンバス 26"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://purl.oclc.org/ooxml/drawingml/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://purl.oclc.org/ooxml/drawingml/main">
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas">
+                <wp:wpc>
+                  <wp:bg/>
+                  <wp:whole/>
+                  <wp:wsp>
+                    <wp:cNvPr id="2" name="正方形/長方形 1"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="260645" y="347045"/>
+                        <a:ext cx="278130" cy="273685"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="3" name="正方形/長方形 2"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="738800" y="751540"/>
+                        <a:ext cx="278130" cy="273050"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="4" name="正方形/長方形 3"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1333160" y="347680"/>
+                        <a:ext cx="278130" cy="273050"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="5" name="正方形/長方形 4"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1840525" y="752175"/>
+                        <a:ext cx="278130" cy="272415"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="6" name="正方形/長方形 5"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2419010" y="347680"/>
+                        <a:ext cx="278130" cy="272415"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="7" name="正方形/長方形 6"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2926375" y="752810"/>
+                        <a:ext cx="278130" cy="271780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="20" name="正方形/長方形 7"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="3563280" y="346410"/>
+                        <a:ext cx="277495" cy="272415"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="21" name="正方形/長方形 8"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="4070645" y="751540"/>
+                        <a:ext cx="277495" cy="271780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="lt1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="22" name="コネクタ: 曲線 1"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="538775" y="483888"/>
+                        <a:ext cx="339090" cy="267652"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="curvedConnector2">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="23" name="コネクタ: 曲線 2"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1611290" y="484205"/>
+                        <a:ext cx="229235" cy="404178"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="curvedConnector3">
+                        <a:avLst/>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="24" name="コネクタ: 曲線 3"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2697140" y="483888"/>
+                        <a:ext cx="368300" cy="540702"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="curvedConnector4">
+                        <a:avLst>
+                          <a:gd name="adj1" fmla="val 31121"/>
+                          <a:gd name="adj2" fmla="val 142278"/>
+                        </a:avLst>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="25" name="コネクタ: 曲線 4"/>
+                    <wp:cNvCnPr/>
+                    <wp:spPr>
+                      <a:xfrm rot="16200000" flipH="1">
+                        <a:off x="3617255" y="431183"/>
+                        <a:ext cx="676910" cy="507365"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="curvedConnector5">
+                        <a:avLst>
+                          <a:gd name="adj1" fmla="val -33771"/>
+                          <a:gd name="adj2" fmla="val 50000"/>
+                          <a:gd name="adj3" fmla="val 133771"/>
+                        </a:avLst>
+                      </a:prstGeom>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="3">
+                        <a:schemeClr val="dk1"/>
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="dk1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="2">
+                        <a:schemeClr val="dk1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="tx1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                </wp:wpc>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="008F7AEB">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt" w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt" w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

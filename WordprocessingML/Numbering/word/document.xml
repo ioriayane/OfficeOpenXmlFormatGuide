@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+    xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships"
+    xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main"
+    w:conformance="strict">
+<w:body>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="0"/>
+      <w:numId w:val="1"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>願い叶い王女が生まれる</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="0"/>
+      <w:numId w:val="1"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>王様は喜びお披露目パーティーを開催</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="1"/>
+      <w:numId w:val="1"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>12人の魔女による祝福</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="1"/>
+      <w:numId w:val="1"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>13人目の魔女が怒り心頭でことを起こす</w:t>
+  </w:r>
+</w:p>
+<w:p/>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="0"/>
+      <w:numId w:val="2"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>一人目の魔女は徳を……</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="1"/>
+      <w:numId w:val="2"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>人々に愛されますようにと祈る</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="0"/>
+      <w:numId w:val="2"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>二人目の魔女は富を……</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr>
+    <w:numPr>
+      <w:ilvl w:val="0"/>
+      <w:numId w:val="2"/>
+    </w:numPr>
+  </w:pPr>
+  <w:r>
+    <w:t>三人目の魔女は富を……</w:t>
+  </w:r>
+</w:p>
+
+<w:sectPr w:rsidR="00F56060">
+  <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+  <w:pgMar w:gutter="0pt" w:footer="49.60pt" w:header="42.55pt" w:left="85.05pt" w:bottom="85.05pt" w:right="85.05pt" w:top="99.25pt"/>
+  <w:cols w:space="21.25pt"/>
+  <w:docGrid w:type="lines" w:linePitch="360"/>
+</w:sectPr>
+</w:body>
+</w:document>

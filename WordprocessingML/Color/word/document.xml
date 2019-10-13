@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://purl.oclc.org/ooxml/officeDocument/relationships" xmlns:m="http://purl.oclc.org/ooxml/officeDocument/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://purl.oclc.org/ooxml/wordprocessingml/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" mc:Ignorable="w14 w15 w16se w16cid wne wp14" w:conformance="strict">
+  <w:body>
+    <w:p w:rsidR="00406324" w:rsidRDefault="00DF42BF">
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="3399790" cy="2110579"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1" name="キャンバス 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://purl.oclc.org/ooxml/drawingml/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://purl.oclc.org/ooxml/drawingml/main">
+              <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas">
+                <wp:wpc>
+                  <wp:bg/>
+                  <wp:whole/>
+                  <wp:wsp>
+                    <wp:cNvPr id="1" name="正方形/長方形 0"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="620000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:shade val="0%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="2" name="正方形/長方形 1"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="820000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="BCE9C2">
+                          <a:shade val="20%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="3" name="正方形/長方形 2"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1020000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:shade val="40%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="4" name="正方形/長方形 3"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1220000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00BB48">
+                          <a:shade val="60%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="5" name="正方形/長方形 4"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1420000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:shade val="80%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="6" name="正方形/長方形 5"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1620000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:tint val="100%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="7" name="正方形/長方形 6"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1820000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:tint val="80%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="8" name="正方形/長方形 7"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2020000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:tint val="60%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="9" name="正方形/長方形 8"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2220000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:tint val="40%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="10" name="正方形/長方形 9"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2420000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:tint val="20%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="11" name="正方形/長方形 10"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2620000" y="473715"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:tint val="0%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="12" name="正方形/長方形 11"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1620129" y="1256118"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:lumMod val="90%"/>
+                          <a:lumOff val="-10%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="13" name="正方形/長方形 12"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1620083" y="1704734"/>
+                        <a:ext cx="200000" cy="200000"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:solidFill>
+                        <a:srgbClr val="00D050">
+                          <a:satMod val="90%"/>
+                          <a:satOff val="-20%"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                    </wp:spPr>
+                    <wp:bodyPr/>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="14" name="テキスト ボックス 1"/>
+                    <wp:cNvSpPr txBox="1"/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1343620" y="117286"/>
+                        <a:ext cx="778510" cy="398780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln w="6350">
+                        <a:noFill/>
+                      </a:ln>
+                    </wp:spPr>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                              <w:kern w:val="0"/>
+                              <w:sz w:val="24"/>
+                              <w:szCs w:val="24"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>tint=100</w:t>
+                          </w:r>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>％</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>（原色）</w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="15" name="テキスト ボックス 2"/>
+                    <wp:cNvSpPr txBox="1"/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="2386327" y="117286"/>
+                        <a:ext cx="656590" cy="398780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln w="6350">
+                        <a:noFill/>
+                      </a:ln>
+                    </wp:spPr>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                              <w:kern w:val="0"/>
+                              <w:sz w:val="24"/>
+                              <w:szCs w:val="24"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>tint=0</w:t>
+                          </w:r>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>％</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>（白色）</w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="17" name="正方形/長方形 17"/>
+                    <wp:cNvSpPr/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="620040" y="473995"/>
+                        <a:ext cx="2199960" cy="199800"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                    </wp:spPr>
+                    <wp:style>
+                      <a:lnRef idx="2">
+                        <a:schemeClr val="accent1">
+                          <a:shade val="50%"/>
+                        </a:schemeClr>
+                      </a:lnRef>
+                      <a:fillRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="accent1"/>
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="lt1"/>
+                      </a:fontRef>
+                    </wp:style>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="19" name="テキスト ボックス 3"/>
+                    <wp:cNvSpPr txBox="1"/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="359565" y="665858"/>
+                        <a:ext cx="717550" cy="398780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln w="6350">
+                        <a:noFill/>
+                      </a:ln>
+                    </wp:spPr>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                              <w:kern w:val="0"/>
+                              <w:sz w:val="24"/>
+                              <w:szCs w:val="24"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Shade=0</w:t>
+                          </w:r>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>％</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>（黒色）</w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="20" name="テキスト ボックス 4"/>
+                    <wp:cNvSpPr txBox="1"/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1313140" y="665368"/>
+                        <a:ext cx="839470" cy="398780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln w="6350">
+                        <a:noFill/>
+                      </a:ln>
+                    </wp:spPr>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                              <w:kern w:val="0"/>
+                              <w:sz w:val="24"/>
+                              <w:szCs w:val="24"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Shade=100</w:t>
+                          </w:r>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>％</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w:rsidR="00D47DBB" w:rsidRDefault="00D47DBB" w:rsidP="00D47DBB">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="center"/>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="JJS游ゴシック体 Pr6N D" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>（原色）</w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="21" name="テキスト ボックス 5"/>
+                    <wp:cNvSpPr txBox="1"/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1881724" y="1157221"/>
+                        <a:ext cx="859790" cy="398780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln w="6350">
+                        <a:noFill/>
+                      </a:ln>
+                    </wp:spPr>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="006C6CBA" w:rsidRDefault="006C6CBA" w:rsidP="006C6CBA">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="start"/>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:proofErr w:type="spellStart"/>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>lumMod</w:t>
+                          </w:r>
+                          <w:proofErr w:type="spellEnd"/>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>=90%</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w:rsidR="006C6CBA" w:rsidRDefault="006C6CBA" w:rsidP="006C6CBA">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="start"/>
+                          </w:pPr>
+                          <w:proofErr w:type="spellStart"/>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman" w:hint="eastAsia"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>l</w:t>
+                          </w:r>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>umOff</w:t>
+                          </w:r>
+                          <w:proofErr w:type="spellEnd"/>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>=-10%</w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                  <wp:wsp>
+                    <wp:cNvPr id="22" name="テキスト ボックス 6"/>
+                    <wp:cNvSpPr txBox="1"/>
+                    <wp:spPr>
+                      <a:xfrm>
+                        <a:off x="1881724" y="1619892"/>
+                        <a:ext cx="859790" cy="398780"/>
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst/>
+                      </a:prstGeom>
+                      <a:noFill/>
+                      <a:ln w="6350">
+                        <a:noFill/>
+                      </a:ln>
+                    </wp:spPr>
+                    <wp:txbx>
+                      <wne:txbxContent>
+                        <w:p w:rsidR="006C6CBA" w:rsidRDefault="006C6CBA" w:rsidP="006C6CBA">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="start"/>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                          </w:pPr>
+                          <w:proofErr w:type="spellStart"/>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>satMod</w:t>
+                          </w:r>
+                          <w:proofErr w:type="spellEnd"/>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>=90%</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w:rsidR="006C6CBA" w:rsidRDefault="006C6CBA" w:rsidP="006C6CBA">
+                          <w:pPr>
+                            <w:spacing w:line="11pt" w:lineRule="exact"/>
+                            <w:jc w:val="start"/>
+                          </w:pPr>
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Source Code Pro" w:eastAsia="JJS游ゴシック体 Pr6N D" w:hAnsi="Source Code Pro" w:cs="Times New Roman"/>
+                              <w:sz w:val="16"/>
+                              <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>satOff=-20%</w:t>
+                          </w:r>
+                        </w:p>
+                      </wne:txbxContent>
+                    </wp:txbx>
+                    <wp:bodyPr rot="0" spcFirstLastPara="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst/>
+                      </a:prstTxWarp>
+                      <a:noAutofit/>
+                    </wp:bodyPr>
+                  </wp:wsp>
+                </wp:wpc>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00B31FA9" w:rsidRDefault="00B31FA9"/>
+    <w:sectPr w:rsidR="00B31FA9">
+      <w:pgSz w:w="595.30pt" w:h="841.90pt"/>
+      <w:pgMar w:top="99.25pt" w:right="85.05pt" w:bottom="85.05pt" w:left="85.05pt" w:header="42.55pt" w:footer="49.60pt" w:gutter="0pt"/>
+      <w:cols w:space="21.25pt"/>
+      <w:docGrid w:type="lines" w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
